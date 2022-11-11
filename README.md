@@ -6,6 +6,6 @@ This is my password generator project, when the user selects the password lenght
 
 <img src=./Assets/PasswordGenerator.png alt = "Password generator screenshot of website">
 
-## website page
+## Website page
 
-https://tochitaaaaa.github.io/Module03-Password-Generator/
+[https://tochitaaaaa.github.io/Module03-Password-Generator/]
